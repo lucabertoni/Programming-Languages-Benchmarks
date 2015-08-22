@@ -42,10 +42,9 @@
 
 	$nEnd = microtime(true);
 
-	$nSecondiTotali = ($nEnd - $nStart)/1000000;
+	$nSecondiTotali = ($nEnd - $nStart);
 
 	$file = fopen("cronometro.csv", "a");
 	$sText = "PHP;".$nSecondiTotali."\n";
 	fwrite($file, $sText);
-	print_r("Microseconds: ".$nSecondiTotali."\n");
 ?>
