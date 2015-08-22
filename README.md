@@ -12,6 +12,12 @@ Speed test of the various programming languages based on the calculation of the 
 **Python version**: Python 3.4.2  
 **Javascript**: javascript1.7  
 
+## Results
+### Range of prime numbers: 1 - 10000
+Language | First Test
+------------- | -------------
+test|test
+
 ## Info/Contacts:
 **Author**: Luca Bertoni  
 **Contacts**:  
