@@ -14,9 +14,9 @@ Speed test of the various programming languages based on the calculation of the 
 
 ## Results
 ### Range of prime numbers: 1 - 10000
-Language | First Test
-------------- | -------------
-test|test
+Language | First Test | Second Test | Third Test | Fourth Test | Fifth Test
+------------- | ------------- | ------------- | ------------- | ------------- | -------------
+C |  0.029763 | 0.024913 | 0.027303 | 0.027144 | 0.024879 |
 
 ## Info/Contacts:
 **Author**: Luca Bertoni  
