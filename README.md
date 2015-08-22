@@ -12,8 +12,9 @@ Speed test of the various programming languages based on the calculation of the 
 **Python version**: Python 3.4.2  
 **Javascript**: javascript1.7  
 
-## Results
-### Range of prime numbers: 1 - 10000
+## Results  
+### Version 1.0 (easiest algorithm to generate prime numbers)  
+#### Range of prime numbers: 1 - 10000  
 Language | First Test | Second Test | Third Test | Fourth Test | Fifth Test
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
 C |  0.029763 | 0.024913 | 0.027303 | 0.027144 | 0.024879 |
