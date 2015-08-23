@@ -6,8 +6,8 @@ Speed test of the various programming languages based on the calculation of the 
 ## Test environment
 **Processor**: AMD FX(tm)-8320 Eight-Core Processor 3.5GHz  
 **CC version**: cc (Debian 4.9.2-10) 4.9.2  
-**PHP version**: PHP 5.6.9-0+deb8u1 - Zend Engine v2.6.0 with Zend OPcache v7.0.4-dev  
-**Python version**: Python 3.4.2  
+**PHP version**: PHP 5.6.9-0+deb8u1 - Zend Engine v2.6.0 with Zend OPcache v7.0.4-dev - HipHop VM 3.9.0 (rel)  
+**Python version**: Python 3.4.2 - PyPy 2.4.0 with GCC 4.6.3  
 **Javascript**: javascript1.7  
 
 ## Results  
