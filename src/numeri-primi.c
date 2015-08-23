@@ -8,6 +8,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+#define STARTRANGE	1			// Punto di inizio del range dal quale calcolare i numeri primi
+#define ENDRANGE	10000000	// Punto di fine del range dal quale calcolare i numeri primi
+
 int* getNumeriPrimi(int nStart,int nFine);
 int isNumeroPrimo(int nNumero);
 
@@ -19,7 +22,7 @@ void main(){
 
 	nStart = clock();
 
-	aNumeriPrimi = getNumeriPrimi(1,10000);
+	aNumeriPrimi = getNumeriPrimi(STARTRANGE,ENDRANGE);
 
 	nEnd = clock();
 	
