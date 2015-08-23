@@ -34,8 +34,8 @@ Python | 0.04424285888671875 | 0.04419302940368652 | 0.04280281066894531 | 04442
 Javascript | 0.02500009536743164 | 0.024000167846679688 | 0.029999971389770508 | 0.026000022888183594 | 0.023999929428100586
 
 ## Info/Contacts:
-**Author**: Luca Bertoni
-**Version**: 1.0
+**Author**: Luca Bertoni  
+**Version**: 1.0  
 **Contacts**:  
 
 	Email: luca.bertoni24@gmail.com
