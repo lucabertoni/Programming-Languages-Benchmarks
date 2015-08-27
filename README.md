@@ -1,7 +1,7 @@
 # Programming-Languages-Benchmarks
 Personal test of some programming languages speed.
 
-Speed test of the various programming languages based on the calculation of the prime numbers from 1 to 10000.
+Speed test of the various programming languages based on the calculation of the prime numbers.
 
 ## Test environment
 **Processor**: AMD FX(tm)-8320 Eight-Core Processor 3.5GHz  
@@ -40,7 +40,7 @@ VisualBasic |  |  |  |  |
 #### Range of prime numbers: 1 - 10000000
 Language | First Test | Second Test | Third Test | Fourth Test | Fifth Test
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
-C | 12075.545898 |  |  |  |  |
+C | 12075.545898 | 12743.964844 | 12745.229492 | 12875.277344 | 12878.816406
 PHP |  |  |  |  | 
 Python |  |  |  |  | 
 Javascript |  |  |  |  |
@@ -48,18 +48,6 @@ VisualBasic |  |  |  |  |
 
 ## Contributors
 Davide Bonazzoli (VisualBasic code)
-
-1- 1000000 C;12075.545898
-
-PHP;0.033352851867676
-PHP;0.03312611579895
-PHP;0.032805919647217
-PHP;0.032999992370605
-PHP;0.033019065856934
-C;12743.964844
-C;12745.229492
-C;12875.277344
-C;12878.816406
 
 ## Info/Contacts:
 **Author**: Luca Bertoni  
