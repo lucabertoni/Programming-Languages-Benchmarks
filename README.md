@@ -15,7 +15,7 @@ Results of the computation time of the script. (time in seconds)
 
 ### Version 1.0 (easiest algorithm to generate prime numbers)  
 #### Range of prime numbers: 1 - 10000  
-Language | First Test | Second Test | Third Test | Fourth Test | Fifth Test
+Language | First Test | Second Test | Third Test | Fourth Test | Fifth Test | Average
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
 C | 0.029763 | 0.024913 | 0.027303 | 0.027144 | 0.024879 |
 PHP | 0.36467289924622 | 0.35332584381104 | 0.35406494140625 | 0.34508109092712 | 0.34915208816528
@@ -27,7 +27,7 @@ VisualBasic |  |  |  |  |
 
 #### Range of prime numbers: 1 - 10000
 #### Python + JIT (pypy) and PHP + JIT (HHVM)  
-Language | First Test | Second Test | Third Test | Fourth Test | Fifth Test
+Language | First Test | Second Test | Third Test | Fourth Test | Fifth Test | Average
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
 C | 0.029763 | 0.024913 | 0.027303 | 0.027144 | 0.024879 |
 PHP | 0.033352851867676 | 0.03312611579895 | 0.032805919647217 | 0.032999992370605 | 0.033019065856934
@@ -38,7 +38,7 @@ VisualBasic |  |  |  |  |
 - - - - - - - - - - - - - - - - - - - -
 
 #### Range of prime numbers: 1 - 10000000
-Language | First Test | Second Test | Third Test | Fourth Test | Fifth Test
+Language | First Test | Second Test | Third Test | Fourth Test | Fifth Test | Average
 ------------- | ------------- | ------------- | ------------- | ------------- | -------------
 C | 12075.545898 | 12743.964844 | 12745.229492 | 12875.277344 | 12878.816406
 PHP |  |  |  |  | 
